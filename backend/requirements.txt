@@ -1,0 +1,7 @@
+flask
+flask-cors
+pypdf
+pdf2docx                                                                          
+pdf2image       
+python-pptx
+Pillow
